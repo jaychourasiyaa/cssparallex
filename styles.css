@@ -2,6 +2,7 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
+    font-size:25px;
 }
 #wrapper
 {
@@ -33,7 +34,7 @@ h1{
     z-index: 8;
     font-family: poppins,sans-serif ;
     text-shadow: 0 0 8px rgb(0, 0, 0);
-    font-size: 40px;
+    font-size: 80px;
     letter-spacing: 2.5px;
     font-weight: bolder ;
     transform: translateZ(-3px);
@@ -87,15 +88,15 @@ section{
 }
 .bg1
 {
-    background-image:url(/dotcode/parallex2/images/sport-1.jpeg);
+    background-image:url(sport-1.jpeg);
 }
 .bg2
 {
-    background-image:url(/dotcode/parallex2/images/sport-2.jpeg);
+    background-image:url(sport-2.jpeg);
 }
 .bg3
 {
-    background-image:url(/dotcode/parallex2/images/sport-3.jpeg);
+    background-image:url(sport-3.jpeg);
 }
 .bg{
     width: 100%;
